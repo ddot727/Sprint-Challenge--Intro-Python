@@ -18,7 +18,7 @@
 #
 # Put a comment noting which class is the base class
 
-# Base Class
+# Base Class is the Vehicle class
 
 
 class Vehicle:
@@ -33,7 +33,7 @@ class Car(GroundVehicle):
     pass
 
 
-class Motocycle(GroundVehicle):
+class Motorcycle(GroundVehicle):
     pass
 
 
